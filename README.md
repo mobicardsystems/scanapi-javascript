@@ -1,6 +1,6 @@
 # Payment Card Scan API
 ## MobiCard ScanAPI - Method 1
-### Pure javascript Implementation
+### Pure JavaScript Implementation
 
 This pure JavaScript implementation provides the core scanning functionality without the HTML/CSS. It's ideal for developers who want to integrate the card scanning into their existing UI frameworks. 
 
